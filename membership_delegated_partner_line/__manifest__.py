@@ -15,5 +15,5 @@
     "data": [
         "views/account_move.xml",
     ],
-    'pre_init_hook': 'check_incompatibilities',
+    "pre_init_hook": "check_incompatibilities",
 }
